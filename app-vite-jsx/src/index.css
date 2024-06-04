@@ -1,0 +1,32 @@
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.btn-box {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btn {
+  width: 150px;
+  border-radius: 10px;
+  font-size: 36px;
+}
+
+.btn:hover {
+  background-color: cornflowerblue;
+}
+
+.input {
+  font-size: 36px;
+  margin-top: 50px;
+}
